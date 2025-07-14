@@ -1,5 +1,17 @@
 [
-  { "Application": "analytics-service", "Status": "Healthy", "Time": "2025-07-04T10:25:00.000Z" },
-  { "Application": "analytics-service", "Status": "Healthy", "Time": "2025-07-05T10:25:00.000Z" },
-  { "Application": "analytics-service", "Status": "UnHealthy", "Time": "2025-07-06T10:25:00.000Z" }
+  {
+    "__time": "2025-07-04T10:25:00.000Z",
+    "name": "analytics-service",
+    "value": "Healthy"
+  },
+  {
+    "__time": "2025-07-05T10:25:00.000Z",
+    "name": "analytics-service",
+    "value": "Healthy"
+  },
+  {
+    "__time": "2025-07-06T10:25:00.000Z",
+    "name": "analytics-service",
+    "value": "UnHealthy"
+  }
 ]
