@@ -1,366 +1,313 @@
 [
   {
-    "_id": "686e15e2f4996a6dc232a03f",
     "time": "2025-07-04T10:25:00.000Z",
     "name": "analytics-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03f",
     "time": "2025-07-05T10:25:00.000Z",
     "name": "analytics-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03f",
     "time": "2025-07-06T10:25:00.000Z",
     "name": "analytics-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03f",
     "time": "2025-07-07T10:25:00.000Z",
     "name": "analytics-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03f",
+    "time": "2025-07-08T10:25:00.000Z",
+    "name": "analytics-service",
+    "value": "Healthy"
+  },
+  { 
     "time": "2025-07-08T10:25:00.000Z",
     "name": "analytics-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03f",
-    "time": "2025-07-08T10:25:00.000Z",
-    "name": "analytics-service",
-    "value": "Healthy"
-  },
-  {
-    "_id": "686e1565f4996a6dc232a03c",
     "time": "2025-07-04T10:00:00.000Z",
     "name": "auth-service",
     "value": "UnHealthy"
   },
-  {
-    "_id": "686e1565f4996a6dc232a03c",
+  { 
     "time": "2025-07-05T12:00:00.000Z",
     "name": "auth-service",
     "value": "UnHealthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03c",
     "time": "2025-07-06T12:00:00.000Z",
     "name": "auth-service",
     "value": "UnHealthy"
   },
-  {
-    "_id": "686e1565f4996a6dc232a03c",
+  {  
     "time": "2025-07-07T11:00:00.000Z",
     "name": "auth-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03c",
     "time": "2025-07-08T10:00:00.000Z",
     "name": "auth-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03c",
     "time": "2025-07-08T10:00:00.000Z",
     "name": "auth-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a040",
     "time": "2025-07-04T10:30:00.000Z",
     "name": "billing-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a040",
     "time": "2025-07-05T10:30:00.000Z",
     "name": "billing-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a040",
     "time": "2025-07-06T10:30:00.000Z",
     "name": "billing-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a040",
     "time": "2025-07-07T10:30:00.000Z",
     "name": "billing-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a040",
     "time": "2025-07-08T10:30:00.000Z",
     "name": "billing-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a040",
     "time": "2025-07-08T10:30:00.000Z",
     "name": "billing-service",
     "value": "Healthy"
   },
-  {
-    "_id": "686e1565f4996a6dc232a03d",
+  { 
     "time": "2025-07-04T10:11:00.000Z",
     "name": "inventory-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03d",
     "time": "2025-07-05T10:11:00.000Z",
     "name": "inventory-service",
     "value": "UnHealthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03d",
     "time": "2025-07-06T10:10:00.000Z",
     "name": "inventory-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03d",
     "time": "2025-07-07T11:10:00.000Z",
     "name": "inventory-service",
     "value": "UnHealthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03d",
     "time": "2025-07-08T10:10:00.000Z",
     "name": "inventory-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03d",
     "time": "2025-07-08T10:10:00.000Z",
     "name": "inventory-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03e",
     "time": "2025-07-04T07:20:00.000Z",
     "name": "notification-service",
     "value": "UnHealthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03e",
     "time": "2025-07-05T08:20:00.000Z",
     "name": "notification-service",
     "value": "UnHealthy"
   },
-  {
-    "_id": "686e15e2f4996a6dc232a03e",
+  { 
     "time": "2025-07-06T09:20:00.000Z",
     "name": "notification-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03e",
     "time": "2025-07-07T10:20:00.000Z",
     "name": "notification-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03e",
     "time": "2025-07-08T10:20:00.000Z",
     "name": "notification-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03e",
     "time": "2025-07-08T11:20:00.000Z",
     "name": "notification-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03d",
     "time": "2025-07-02T10:00:00.000Z",
     "name": "order-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03d",
     "time": "2025-07-03T12:00:00.000Z",
     "name": "order-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03d",
     "time": "2025-07-04T12:00:00.000Z",
     "name": "order-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03d",
     "time": "2025-07-05T11:00:00.000Z",
     "name": "order-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03d",
     "time": "2025-07-06T10:05:00.000Z",
     "name": "order-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03d",
     "time": "2025-07-08T10:15:00.000Z",
     "name": "order-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03d",
     "time": "2025-07-08T10:15:00.000Z",
     "name": "order-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03c",
     "time": "2025-07-04T10:00:00.000Z",
     "name": "payment-service",
     "value": "UnHealthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03c",
     "time": "2025-07-05T12:00:00.000Z",
     "name": "payment-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03c",
     "time": "2025-07-06T12:00:00.000Z",
     "name": "payment-service",
     "value": "UnHealthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03c",
     "time": "2025-07-07T11:00:00.000Z",
     "name": "payment-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03c",
     "time": "2025-07-08T10:05:00.000Z",
     "name": "payment-service",
     "value": "UnHealthy"
   },
   {
-    "_id": "686e1565f4996a6dc232a03c",
     "time": "2025-07-08T10:05:00.000Z",
     "name": "payment-service",
     "value": "UnHealthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03f",
     "time": "2025-07-04T10:25:00.000Z",
     "name": "report-service",
     "value": "UnHealthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03f",
     "time": "2025-07-05T10:25:00.000Z",
     "name": "report-service",
     "value": "UnHealthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03f",
+    
     "time": "2025-07-06T10:25:00.000Z",
     "name": "report-service",
     "value": "UnHealthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03f",
     "time": "2025-07-07T10:25:00.000Z",
     "name": "report-service",
     "value": "UnHealthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03f",
+    "time": "2025-07-08T10:25:00.000Z",
+    "name": "report-service",
+    "value": "UnHealthy"
+  },
+  { 
     "time": "2025-07-08T10:25:00.000Z",
     "name": "report-service",
     "value": "UnHealthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03f",
-    "time": "2025-07-08T10:25:00.000Z",
-    "name": "report-service",
-    "value": "UnHealthy"
-  },
-  {
-    "_id": "686e15e2f4996a6dc232a03e",
+ 
     "time": "2025-07-04T07:20:00.000Z",
     "name": "search-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03e",
+  
     "time": "2025-07-05T08:20:00.000Z",
     "name": "search-service",
     "value": "UnHealthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03e",
+    
     "time": "2025-07-06T09:20:00.000Z",
     "name": "search-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03e",
     "time": "2025-07-07T10:20:00.000Z",
     "name": "search-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03e",
+    
     "time": "2025-07-08T10:20:00.000Z",
     "name": "search-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a03e",
+    
     "time": "2025-07-08T11:20:00.000Z",
     "name": "search-service",
     "value": "UnHealthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a040",
+    
     "time": "2025-07-04T10:30:00.000Z",
     "name": "user-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a040",
+ 
     "time": "2025-07-05T10:30:00.000Z",
     "name": "user-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a040",
     "time": "2025-07-06T10:30:00.000Z",
     "name": "user-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a040",
     "time": "2025-07-07T10:30:00.000Z",
     "name": "user-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a040",
     "time": "2025-07-08T10:30:00.000Z",
     "name": "user-service",
     "value": "Healthy"
   },
   {
-    "_id": "686e15e2f4996a6dc232a040",
     "time": "2025-07-08T10:30:00.000Z",
     "name": "user-service",
     "value": "Healthy"
